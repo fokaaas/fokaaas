@@ -7,24 +7,11 @@
 </div>
 
 ### Languages
-<div>
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,c,html,css)](https://skillicons.dev)
 <br>
 
 ### Tech Stack
-<div>
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img width="100" height="100" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" />
-  <img width="100" height="100" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,jest,postgres,mysql,prisma,linux,postman)](https://skillicons.dev)
 <br>
 <br>
 

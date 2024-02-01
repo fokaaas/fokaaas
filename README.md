@@ -11,7 +11,7 @@
 <br>
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,jest,mongodb,postgres,mysql,prisma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,jest,docker,mongodb,postgres,mysql,sequelize,prisma,linux)](https://skillicons.dev)
 <br>
 <br>
 

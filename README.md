@@ -2,8 +2,8 @@
 ![image](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611oscq0hhevd85c4z776u3f4oj6ieouwzup368yer0&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 I am a software developer from **Ukraine**. Lover of everything related to programming. Nowadays, I am Node.js Backend Developer (see my stack below). I like to solve **complex and interesting problems**. I am also:
-- a student of Igor Sikorsky Kyiv Polytechnic Institute (**Bachelor of Software Engineering**)
-- work in a state enterprise of the **Ministry of Internal Affairs**
+- a student of Igor Sikorsky Kyiv Polytechnic Institute **(Bachelor of Software Engineering)**
+- working in a state enterprise of the **Ministry of Internal Affairs**
 <br></br>
 <div>
   <a href="mailto:stanislavbasarab083@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

@@ -14,7 +14,7 @@ I am a software developer from **Ukraine**. Lover of everything related to progr
 <hr></hr>
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,kotlin,python,cs,c,html,css)](https://skillicons.dev)
 <br>
 
 ### Tech Stack
